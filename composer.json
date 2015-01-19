@@ -18,6 +18,7 @@
 			"name": "Mateo Murphy"
 		}
     ],
+    "replace": "liquid/liquid",
     "require": {
 		"php": ">= 5.3"
 	},
